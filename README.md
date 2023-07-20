@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Tirumal </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirumal024&label=Profile%20views&color=0e75b6&style=flat" alt="tirumal024" /> </p>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@tirumals24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tirumals24" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tirumal-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tirumal-s/" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.war_n_ing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.war_n_ing" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 # PhonePe Pulse Data Visualization 2018-2022
 
 This project is a data visualization tool for PhonePe's pulse data from 2018 to 2022. It allows users to explore and analyze various metrics related to PhonePe's business performance.
@@ -6,7 +20,6 @@ This project is a data visualization tool for PhonePe's pulse data from 2018 to 
 ![image](https://github.com/Tirumal024/Phonepe/assets/131777752/3773ecbc-b2e3-4e47-b985-8f8f86e52d0c)
 
 **TOP CHARTS**
-
 TRANSACTION
 ![image](https://github.com/Tirumal024/Phonepe/assets/131777752/9a7f4cd7-a212-45f5-a0ff-f17b165a8cd3)
 
