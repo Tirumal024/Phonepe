@@ -10,3 +10,7 @@ This project is a data visualization tool for PhonePe's pulse data from 2018 to 
 TRANSACTION
 ![image](https://github.com/Tirumal024/Phonepe/assets/131777752/9a7f4cd7-a212-45f5-a0ff-f17b165a8cd3)
 
+USERS
+![image](https://github.com/Tirumal024/Phonepe/assets/131777752/4eebeb0f-7a2e-488e-b98c-686dcf2c64ba)
+
+
