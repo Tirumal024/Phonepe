@@ -58,7 +58,7 @@ Clone the repository to your local machine using git clone https://github.com/Ph
     import json
     from streamlit_option_menu import option_menu
     from PIL import Image
-    from git.repo.base import Repo
+    
 
 
 **Data extraction:**
