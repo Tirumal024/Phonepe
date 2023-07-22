@@ -49,6 +49,18 @@ Users State
 
 Clone the repository to your local machine using git clone https://github.com/PhonePe/pulse.git Install the required Python packages.
 
+#### Libraries/Modules needed for the project!
+    import pandas as pd
+    import mysql.connector as sql
+    import streamlit as st
+    import plotly.express as px
+    import os
+    import json
+    from streamlit_option_menu import option_menu
+    from PIL import Image
+    from git.repo.base import Repo
+
+
 **Data extraction:**
 
 Clone the Github using scripting to fetch the data from the Phonepe pulse Github repository and store it in a suitable format such as JSON. Use the below syntax to clone the phonepe github repository into your local drive. from git.repo.base import Repo Repo.clone_from("GitHub Clone URL","Path to get the cloded files")
